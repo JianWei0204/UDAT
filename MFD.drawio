@@ -1,9 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.8151 SLBChan/30 SLBVPV/64-bit" version="28.2.3">
   <diagram name="第 1 页" id="cqr3ziV8sDtbMUuwwVQX">
-    <mxGraphModel>
+    <mxGraphModel dx="1506" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uhgC37qevhi0u4Qd5rqQ-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="125" height="200" as="geometry">
+            <mxRectangle x="50" y="560" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhgC37qevhi0u4Qd5rqQ-5" value="backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uhgC37qevhi0u4Qd5rqQ-2">
+          <mxGeometry x="22.5" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uhgC37qevhi0u4Qd5rqQ-9" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="uhgC37qevhi0u4Qd5rqQ-2">
+          <mxGeometry x="22.5" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uhgC37qevhi0u4Qd5rqQ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uhgC37qevhi0u4Qd5rqQ-2">
+          <mxGeometry x="12.5" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
